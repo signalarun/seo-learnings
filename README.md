@@ -1,2 +1,3 @@
-# seo-learnings
-Search engine optimization techniques
+# Search engine optimization techniques
+## SEO
+ Techniques used to improves the traffic, ranking and visibility of the website to search engines
